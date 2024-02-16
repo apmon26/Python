@@ -22,5 +22,5 @@
 
 cat = {"name": "Ally", "age": 2, "is_cute": True, "fur_color": "black", "weight": 6}
 
-for i in cat.keys():
+for i in cat.values():
     print(i)
